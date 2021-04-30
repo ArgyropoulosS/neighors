@@ -1,1 +1,1 @@
-# neighors
+# neighours
